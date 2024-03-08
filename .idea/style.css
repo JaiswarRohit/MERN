@@ -1,0 +1,48 @@
+/*
+.special {
+    color : red;
+    font-weight: bold;
+}
+
+.Rohit {
+    color:blueviolet;
+    font-size: 18;
+    font-style: italic;
+    font-weight: 800;
+}
+
+
+h3 em{
+    background-color: red;
+    font-size: larger;
+    color: aqua;
+}
+
+footer+p{
+    color: aquamarine;
+}
+
+a:hover{
+    color:brown;
+    background-color: rgb(6, 139, 255);
+}
+
+body h2+p .Rohit{
+    color: darkblue;
+    background-color: brown;
+
+}
+
+*/
+
+#Heading{
+    color: blue;
+    background-color: tan;
+
+}
+
+
+*{
+    font: 200;
+    color: blue;
+}
